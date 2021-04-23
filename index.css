@@ -1,4 +1,23 @@
+.container {
+    align-content: center;
+    background: aquamarine;
+    border-radius: 5px;
+    width: 300px;
+    margin: auto auto 25px;
+    padding: 25px;
+}
 
+.hyphenate {
+    /* Careful, this breaks the word wherever it is without a hyphen */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    /* Adds a hyphen where the word breaks */
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
 
 h1 {
     background-color: azure;
@@ -34,6 +53,7 @@ span {
     z-index: 1;
 }
 a {
+
     word-wrap: break-word;
     max-width:150px;
     overflow-wrap: break-word;

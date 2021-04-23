@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f29aefd8-d001-4c81-ba1a-9c61a099be60" name="Default Changelist" comment="" />
+    <list default="true" id="f29aefd8-d001-4c81-ba1a-9c61a099be60" name="Default Changelist" comment="Commit 1 raw" />
+    <list id="c1552738-edb2-4762-8bb3-658b5814a1ed" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ComposerSettings">
     <execution />
@@ -21,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -37,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -48,13 +56,22 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f29aefd8-d001-4c81-ba1a-9c61a099be60" name="Default Changelist" comment="" />
+      <changelist id="c1552738-edb2-4762-8bb3-658b5814a1ed" name="New changelist" comment="" />
       <created>1619126347237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619126347237</updated>
       <workItem from="1619126350572" duration="1094000" />
-      <workItem from="1619127467419" duration="8768000" />
+      <workItem from="1619127467419" duration="9106000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit 1 raw">
+      <created>1619197089532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619197089533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +88,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1 raw" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1 raw" />
   </component>
 </project>

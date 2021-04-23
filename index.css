@@ -35,6 +35,6 @@ span {
 }
 a {
     word-wrap: break-word;
-    max-width:300px;
+    max-width:150px;
     overflow-wrap: break-word;
 }

@@ -26,8 +26,8 @@ body {
 
 h1 {
     text-align: center;
-    text-decoration-color: aqua;
     font-family: Cochin serif;
+    background-color: rgba(0.2, 0.4, 0.1, 0.5);
 }
 h2 {
     font-family: Cochin serif;
